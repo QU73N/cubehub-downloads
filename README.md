@@ -8,16 +8,16 @@ CubeHub brings practice, learning and friendly competition together on the web, 
 
 [Open the website](https://cubehubs.netlify.app) · [Download page](https://cubehubs.netlify.app/downloads) · [Getting started](docs/getting-started.md) · [Feature guide](docs/learning-and-discovery.md)
 
-## Get CubeHub 0.5.0
+## Get CubeHub 0.6.0
 
 | Platform | Download | Best for |
 | --- | --- | --- |
-| Android | [Android APK](https://github.com/QU73N/cubehub-downloads/releases/download/app-v0.5.0/CubeHub-Android-0.5.0.apk) | Touch timing and practice on your phone |
-| Windows | [Windows installer](https://github.com/QU73N/cubehub-downloads/releases/download/app-v0.5.0/CubeHub-Setup-0.5.0.exe) | A desktop shortcut and regular installation |
-| Windows portable | [Portable EXE](https://github.com/QU73N/cubehub-downloads/releases/download/app-v0.5.0/CubeHub-Portable-0.5.0.exe) | Opening CubeHub without the installer |
+| Android | [Android APK](https://github.com/QU73N/cubehub-downloads/releases/download/app-v0.6.0/CubeHub-Android-0.6.0.apk) | Touch timing and practice on your phone |
+| Windows | [Windows installer](https://github.com/QU73N/cubehub-downloads/releases/download/app-v0.6.0/CubeHub-Setup-0.6.0.exe) | A desktop shortcut and regular installation |
+| Windows portable | [Portable EXE](https://github.com/QU73N/cubehub-downloads/releases/download/app-v0.6.0/CubeHub-Portable-0.6.0.exe) | Opening CubeHub without the installer |
 | Web | [Use CubeHub in your browser](https://cubehubs.netlify.app) | Getting started right away |
 
-[Release notes and SHA-256 checksums](https://github.com/QU73N/cubehub-downloads/releases/tag/app-v0.5.0)
+[Release notes and SHA-256 checksums](https://github.com/QU73N/cubehub-downloads/releases/tag/app-v0.6.0)
 
 These are preview builds. Windows binaries are currently unsigned, and the Android APK uses the existing development signing key. Physical-device compatibility testing is ongoing. An iOS installer is not included.
 
@@ -28,6 +28,9 @@ These are preview builds. Windows binaries are currently unsigned, and the Andro
 | Time a solve | 15 event scramblers, a large focus timer, touch/keyboard controls, cube-net and 3D targets, and compact recent history |
 | Learn a new puzzle | 18 learning paths, 28 courses and 101 lessons |
 | Build a case library | 2,825 algorithm and technique references, separated by puzzle, method and case set |
+| Build a routine | Custom drill playlists with separate recognition/execution timing and one revisit for difficult rounds |
+| Review your week | Event-specific medians, means, consistency, DNFs and learning progress |
+| Bring your history | Preview a csTimer backup and retain sessions, dates, penalties, scrambles and notes without duplicate imports |
 | Race a bot | Checked CFOP, colour-neutral CFOP, beginner layer-by-layer and 2×2 method steps, with natural pauses and replay |
 | Ask a coach | Built-in cubing knowledge, practice plans, and analysis of your saved PBs, averages and available recordings |
 | Explore the community | 94 curated learning videos, solves, competitions, entertainment, discussions and cuber interviews |
@@ -36,6 +39,8 @@ These are preview builds. Windows binaries are currently unsigned, and the Andro
 Smart Coach uses rules and a cubing knowledge library, with **no external model calls**. Free accounts get **five answered questions per UTC day**; administrators can grant **unlimited AI Premium**. Unclear questions receive clarification rather than invented answers.
 
 Learning paths cover the WCA events and Mirror blocks. FMC and multi-blind have study paths; ordinary timer results are not presented as their official scores. Source-specific algorithms link to their original notation and diagrams when an accurate local preview is unavailable. See the [feature guide](docs/learning-and-discovery.md) for coverage details.
+
+See [the practice toolkit guide](docs/practice-toolkit.md) for drill playlists, weekly recaps and csTimer import.
 
 ## Take a look
 
